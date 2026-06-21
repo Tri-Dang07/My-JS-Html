@@ -1,0 +1,24 @@
+/* MyJS/css/style.css */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+h1 {
+    color: #0076a3;
+    border-bottom: 2px solid #0076a3;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+p strong {
+    color: #e74c3c;
+}
